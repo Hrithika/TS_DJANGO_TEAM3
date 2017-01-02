@@ -1,2 +1,2 @@
 # TS_DJANGO_TEAM3
-K.SRAVYA
+K.Sravya, K.Vishali, Priyanka
